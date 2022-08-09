@@ -16,7 +16,7 @@
 #### (Redes sociais ainda em construção🔒...)
 
 <div align="center">
-<img width="450em" alt="Status Github Binhara" src="https://github-readme-stats.vercel.app/api?username=thiagoamaral0&show_icons=true&theme=dracula" />
+<img width="450em" alt="" src="https://github-readme-stats.vercel.app/api?username=thiagoamaral0&show_icons=true&theme=dracula" />
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoamaral0&layout=compact&theme=dracula"/>
 </div>
 
