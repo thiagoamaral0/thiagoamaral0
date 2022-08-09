@@ -1,10 +1,10 @@
-### Oi 👋, me chamo Thiago Augusto
+### Oi , me chamo Thiago Augusto 👋
 
 ## Sou graduando de Ciência da Computação e estudante de desenvolvimento mobile!!
 
 - 🌱 Aprendendo Flutter 
-- 🌳 Buscando desenvolver e me desenvolver😅
-- 🌲 Planos 2022: Fazer a primeira aplicação em Flutter
+- 💻 3/8 Ciência da Computação
+- 📌 Planos 2022: Fazer a primeira aplicação em Flutter
 
 ### Me conheça melhor:
 
