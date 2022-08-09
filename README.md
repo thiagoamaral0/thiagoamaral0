@@ -1,16 +1,23 @@
-### Hi there 👋
+### Oi 👋, me chamo Thiago Augusto
 
-<!--
-**thiagoamaral0/thiagoamaral0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou graduando de Ciência da Computação e estudante de desenvolvimento mobile!!
 
-Here are some ideas to get you started:
+- 🌱 Aprendendo Flutter 
+- 🌳 Buscando desenvolver e me desenvolver😅
+- 🌲 Planos 2022: Fazer a primeira aplicação em Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me conheça melhor:
+
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagoamaral0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+#### (Redes sociais ainda em construção🔒...)
+
+<div align="center">
+<img width="450em" alt="Status Github Binhara" src="https://github-readme-stats.vercel.app/api?username=thiagoamaral0&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoamaral0&layout=compact&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/thiagoamaral0/thiagoamaral0/blob/output/github-contribution-grid-snake.svg)
