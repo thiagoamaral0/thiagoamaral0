@@ -4,7 +4,6 @@
 
 - 🌱 Aprendendo Flutter 
 - 💻 3/8 Ciência da Computação
-- 📌 Planos 2022: Fazer a primeira aplicação em Flutter
 
 ### Me conheça melhor:
 
