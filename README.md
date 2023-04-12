@@ -1,9 +1,9 @@
 ### Oi , me chamo Thiago Augusto 👋
 
-## Sou graduando de Ciência da Computação e estudante de desenvolvimento Back-end!!
+## Sou graduando de Ciência da Computação e estudante de desenvolvimento
 
-- 🌱 Aprendendo Java 
-- 💻 3/8 Ciência da Computação
+ 
+- 💻 4/8 Ciência da Computação
 
 ### Me conheça melhor:
 
