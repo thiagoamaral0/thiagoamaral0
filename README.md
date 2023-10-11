@@ -3,7 +3,7 @@
 ## Sou graduando de Ciência da Computação e estudante de desenvolvimento
 
  
-- 💻 4/8 Ciência da Computação
+- 💻 5/8 Ciência da Computação
 
 ### Me conheça melhor:
 
