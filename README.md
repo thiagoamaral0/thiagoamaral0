@@ -20,4 +20,4 @@
 
 ![Snake animation](https://github.com/thiagoamaral0/thiagoamaral0/blob/output/github-contribution-grid-snake.svg)
 
-### Gosto de me conectar com pessoas interessadas na área, vamos trocar ideia 😄
+
