@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/thiagoamaral0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-#### (Redes sociais ainda em construção🔒...)
 
 <div align="center">
 <img width="450em" alt="" src="https://github-readme-stats.vercel.app/api?username=thiagoamaral0&show_icons=true&theme=dracula" />
