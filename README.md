@@ -1,11 +1,11 @@
-### Oi , me chamo Thiago Augusto 👋
+
 
 ## Sou graduando de Ciência da Computação e estudante de desenvolvimento
 
  
-- 💻 5/8 Ciência da Computação
+- 💻 6/8 Ciência da Computação
 
-### Me conheça melhor:
+
 
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
